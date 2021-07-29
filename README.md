@@ -16,11 +16,12 @@ In lieu of the Major Project we followed this procedure-
 5) Creating dummy variables and converting features.
 6) Defining X & Y and Splitting the Datasheet.
 7) Building and Evaluating the model by various techniques. - Logistic Regression, K Nearest Neighbour, Desicion Tree, Random Forest, Heirarchial Clustering analysis.
+
 The last step is comparing the accuracy of these 5 Techniques and find the best suited for the objective we cant to carry out:
-Logistic Regression = accuracy is 80%
-K Nearest Neighbour = accuracy is 79%
-Desicion Tree = accuracy is 82%
-Random Forest = accuracy is 83%
-Heirarchial Clustering analysis = accuracy is 55%
+i)Logistic Regression = accuracy is 80%
+ii)K Nearest Neighbour = accuracy is 79%
+iii)Desicion Tree = accuracy is 82%
+iv)Random Forest = accuracy is 83%
+v)Heirarchial Clustering analysis = accuracy is 55%
 
 Therefore the most accurate is Random Forest with a accuracy of 83%¶
